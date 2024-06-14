@@ -1,0 +1,14 @@
+C:\Users\Selo\Desktop\Taban Aritmetiği\bin\Debug\net7.0\Taban Aritmetiği.exe
+C:\Users\Selo\Desktop\Taban Aritmetiği\bin\Debug\net7.0\Taban Aritmetiği.deps.json
+C:\Users\Selo\Desktop\Taban Aritmetiği\bin\Debug\net7.0\Taban Aritmetiği.runtimeconfig.json
+C:\Users\Selo\Desktop\Taban Aritmetiği\bin\Debug\net7.0\Taban Aritmetiği.dll
+C:\Users\Selo\Desktop\Taban Aritmetiği\bin\Debug\net7.0\Taban Aritmetiği.pdb
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.AssemblyInfoInputs.cache
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.AssemblyInfo.cs
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.csproj.CoreCompileInputs.cache
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.dll
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\refint\Taban Aritmetiği.dll
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.pdb
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\Taban Aritmetiği.genruntimeconfig.cache
+C:\Users\Selo\Desktop\Taban Aritmetiği\obj\Debug\net7.0\ref\Taban Aritmetiği.dll
